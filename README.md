@@ -1,5 +1,5 @@
-# Footy2
-Footy2 2.0.1.9 for HSP
+# Footy2 2.0.1.9 for HSP
+Footy2をHSPで使用するための定義ファイルです
 
 ## Footy2 HSP Example Code
 http://rpen.blogspot.com/2008/01/footy2.html
