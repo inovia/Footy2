@@ -8,4 +8,4 @@ http://rpen.blogspot.com/2008/01/footy2.html
 http://dev.onionsoft.net/trac/openhsp/browser/trunk/tools/win32/hsed3_footy2/Footy2
 
 ## Footy2 Reference
-http://dev.onionsoft.net/trac/openhsp/export/1207/trunk/tools/win32/hsed3_footy2/Footy2.pdf
+http://dev.onionsoft.net/trac/openhsp/browser/trunk/tools/win32/hsed3_footy2/Footy2.pdf
